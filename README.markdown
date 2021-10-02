@@ -9,3 +9,5 @@ Ya must interact like so:
         Don't say curse words.
         Say good words.
 ## CLI News
+
+`Nothing here. Make some updates or more to show the CLI updates here.`
