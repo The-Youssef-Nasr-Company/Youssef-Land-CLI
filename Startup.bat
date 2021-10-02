@@ -1,2 +1,0 @@
-echo "Zzzzzz....."
-echo "Huh?"
