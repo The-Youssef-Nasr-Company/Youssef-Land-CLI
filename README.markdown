@@ -10,4 +10,4 @@ Ya must interact like so:
         Say good words.
 ## CLI News
 
-`Nothing here. Make some updates or more to show the CLI updates here.`
+Version `1.0` is released! It's creating the role of Golang Cheetah... RAAWR!
