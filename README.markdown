@@ -2,7 +2,7 @@
 
 You thinkin' about this? We're Youssef Land from the command line (or CLI for short).
 
-## How ya must interact with [Youssef Land (original)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land)
+## How you must interact with [Youssef Land (original)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land)
 
 You must interact like so:
     
