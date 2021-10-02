@@ -1,0 +1,4 @@
+name: Youssef Land CLI
+run: |
+   echo Hello!
+   echo This is Youssef Land CLI!
