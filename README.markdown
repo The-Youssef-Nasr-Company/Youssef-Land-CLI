@@ -12,3 +12,5 @@ You must interact like so:
 ## CLI News
 
 Version `1.0` is released! It's creating the role of Golang Cheetah... RAAWR!
+
+A newer version of Youssef Land CLI which is `1.1` is released from a new file! It's creating the role of Git Shell Leopard... RAAWR! It's a dangerous prowl here!
