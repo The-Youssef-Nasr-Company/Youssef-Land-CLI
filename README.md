@@ -18,3 +18,5 @@ A newer version of Youssef Land CLI which is `1.1` is released from a new file! 
 WOW! A snake's here! And I improved my Golang Cheetah! A very new version of Youssef Land CLI which is `1.2` is released from Golang Cheetah's startup file! It's creating the role of Flying Python Snake... Ssssss.......
 
 Version `1.0` has finally gotten its end of life! What a failure... But there's a C++ god! And I improved my Git Shell Leopard! It's version `1.3`! And it's creating the role of C++ God... WHOOOOOSH!
+
+I've made YAML speedy! It's version `1.4`! It's creating the role of Speedy YAML... WHOOOOOOOOOOOOOOOSH!
