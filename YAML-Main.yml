@@ -1,0 +1,18 @@
+# This is the ultimate YAML contest!
+
+name: YAML Ultimate
+  runs-on: ubuntu-latest
+  - name: Hello World!
+    run: echo Hello World!
+  - name: YAML Celebration
+    run: |
+      echo We are making more
+      echo YAML!
+  - name: Top Result?
+    run: |
+      echo Is it the top result yet?
+      echo Yes, honey.
+  - name: More Actions!
+    run: |
+      echo There are
+      echo more actions on .github/workflows!
